@@ -1,0 +1,11 @@
+.csim_results
+.marker
+trace.tmp
+tracegen
+*.o
+trace.f*
+csim
+test-trans
+test-mul
+heatgen
+test-heat

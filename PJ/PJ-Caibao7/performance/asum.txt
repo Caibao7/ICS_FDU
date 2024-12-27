@@ -1,0 +1,15 @@
+Performance Report
+==================
+Total Instructions Executed: 34
+addq Instructions Executed: 8
+subq Instructions Executed: 4
+andq Instructions Executed: 1
+xorq Instructions Executed: 1
+mulq Instructions Executed: 0
+divq Instructions Executed: 0
+remq Instructions Executed: 0
+Cache Hits: 25
+Cache Misses: 9
+Cache Evictions: 1
+Cache Hit Rate: 73.5294
+Cache Eviction Rate: 2.94118
