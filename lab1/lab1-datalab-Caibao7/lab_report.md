@@ -1,6 +1,5 @@
 # datalab实验报告  
-**姓名**：蔡亦扬  
-**学号**：23307130258  
+**姓名**：Caibao7  
   
 ## 终端截图  
 ![dlcAndmake](images/dlcAndmake.png)
