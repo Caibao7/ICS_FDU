@@ -1,6 +1,5 @@
 # stacklab 实验报告  
-**姓名**：蔡亦扬  
-**学号**：23307130258  
+**姓名**：Caibao  
 ## Task 1  
 **成功截图**  
 ![alt text](image.png)
