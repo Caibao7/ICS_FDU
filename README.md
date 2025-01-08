@@ -1,5 +1,5 @@
 # 24-25秋季 FDU计算机系统基础 labs和PJ  
-**labs改编自CMU的CSAPP课程**  
+**labs由老师和助教改编自CMU的CSAPP课程**  
 **Caibao，FDU23级计算机本科生**  
 ## 5个lab  
 **gitlab**：git教学  
